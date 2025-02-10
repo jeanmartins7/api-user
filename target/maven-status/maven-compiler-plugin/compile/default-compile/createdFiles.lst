@@ -1,0 +1,15 @@
+com/sankhya/api_user/application/dto/UserRequestDTO.class
+com/sankhya/api_user/infrastructure/UserJpaRepository.class
+com/sankhya/api_user/domain/mapper/UserMapperImpl.class
+com/sankhya/api_user/Application.class
+com/sankhya/api_user/application/usecase/users/CreateUserUseCase.class
+com/sankhya/api_user/domain/UserEntity$UserEntityBuilder.class
+com/sankhya/api_user/domain/mapper/UserMapper.class
+com/sankhya/api_user/domain/User.class
+com/sankhya/api_user/domain/UserRepository.class
+com/sankhya/api_user/exceptions/UserAlreadyExistsException.class
+com/sankhya/api_user/infrastructure/adapters/UserRepositoryAdapter.class
+com/sankhya/api_user/application/dto/UserResponseDTO.class
+com/sankhya/api_user/ports/controller/user/UserController.class
+com/sankhya/api_user/domain/UserEntity.class
+com/sankhya/api_user/application/usecase/users/FindUserByEmailUseCase.class

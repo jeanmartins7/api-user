@@ -1,0 +1,14 @@
+# Use postgres/example user/password credentials
+version: '3.8'
+
+services:
+
+  db:
+    restart: always
+    image: postgres:latest
+    environment:
+      POSTGRES_USER: api-user
+      POSTGRES_PASSWORD: api-user
+      POSTGRES_DB: api-user
+    ports:
+      - "15432:5432"

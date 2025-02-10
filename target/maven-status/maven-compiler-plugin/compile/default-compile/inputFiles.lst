@@ -1,0 +1,13 @@
+/home/jeanverso/git/api-user/src/main/java/com/sankhya/api_user/Application.java
+/home/jeanverso/git/api-user/src/main/java/com/sankhya/api_user/application/dto/UserRequestDTO.java
+/home/jeanverso/git/api-user/src/main/java/com/sankhya/api_user/application/dto/UserResponseDTO.java
+/home/jeanverso/git/api-user/src/main/java/com/sankhya/api_user/application/usecase/users/CreateUserUseCase.java
+/home/jeanverso/git/api-user/src/main/java/com/sankhya/api_user/application/usecase/users/FindUserByEmailUseCase.java
+/home/jeanverso/git/api-user/src/main/java/com/sankhya/api_user/domain/User.java
+/home/jeanverso/git/api-user/src/main/java/com/sankhya/api_user/domain/UserEntity.java
+/home/jeanverso/git/api-user/src/main/java/com/sankhya/api_user/domain/UserRepository.java
+/home/jeanverso/git/api-user/src/main/java/com/sankhya/api_user/domain/mapper/UserMapper.java
+/home/jeanverso/git/api-user/src/main/java/com/sankhya/api_user/exceptions/UserAlreadyExistsException.java
+/home/jeanverso/git/api-user/src/main/java/com/sankhya/api_user/infrastructure/UserJpaRepository.java
+/home/jeanverso/git/api-user/src/main/java/com/sankhya/api_user/infrastructure/adapters/UserRepositoryAdapter.java
+/home/jeanverso/git/api-user/src/main/java/com/sankhya/api_user/ports/controller/user/UserController.java
